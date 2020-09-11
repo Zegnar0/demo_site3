@@ -1,3 +1,17 @@
 body{
-    color: red;
+    background-color:#484349;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 8mm;
+    text-align: center;
+    color: #F7F0F0;
+}
+table{   
+    margin-right: auto;
+    margin-left: auto;
+}
+a {
+  color:#8AF3FF;
+}
+a:hover {
+  color: #18A999;
 }
